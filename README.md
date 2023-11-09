@@ -16,7 +16,6 @@ npm test
 
 This command will start Cypress and ruu the tests, by the end of the tests, a report will be generate with all the results.
 
-npm run test:interactive
 #Test Reports
 The html file for the report can be foun on the 'mochawesome-report' folder.
 
